@@ -1,0 +1,5 @@
+*.db
+*.db.smoke
+*.db.smoke-shm
+*.db.smoke-wal
+*.db-*
